@@ -10,7 +10,7 @@ This project is a comprehensive **Movies Management System** developed as part o
 - **Abdul Azeem** (24I-2013)
 
 ## 📌 Project Overview
-The system provides a robust interface to manage movie records. A key constraint of this project was the **strict prohibition of the C++ Standard Template Library (STL)**. Every data structure used—from Linked Lists to Graphs—has been implemented manually from scratch.
+The system provides a robust interface to manage movie records. A key constraint of this project was the **strict prohibition of the C++ Standard Template Library (STL)**. Every data structure used, from Linked Lists to Graphs, has been implemented manually from scratch.
 
 ## 🛠️ Core Data Structures Implemented
 - **AVL Tree**: Used for storing movie records to ensure balanced $O(\log n)$ search, insertion, and deletion.
