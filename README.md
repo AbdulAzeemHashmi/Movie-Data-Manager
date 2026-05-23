@@ -1,9 +1,6 @@
-# MOVIE-DATA-MANAGER
-A C++ based Movies Data Manager using manual implementations of AVL Trees, Hash Tables, and Graphs (No STL) to manage and analyze the IMDb 5000 dataset.
+# Movie Data Manager (C++ No-STL)
 
-# Movies Data Manager (C++ No-STL)
-
-This project is a comprehensive **Movies Management System** developed as part of the Data Structures course (Fall 2025) at **FAST-NUCES, Islamabad**. It is designed to handle, search, and analyze the IMDb 5000 movie dataset efficiently.
+This project is a comprehensive **Movie Management System** developed as part of the Data Structures course (Fall 2025) at **FAST-NUCES, Islamabad**. It is designed to handle, search, and analyze the IMDb 5000 movie dataset efficiently.
 
 ## 👥 Team Members
 - **Abdul Ghafoor** (24I-0118)
